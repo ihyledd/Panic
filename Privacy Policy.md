@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-Last Revised: **1/27/2024**
+Last Revised: **3/11/2024**
 
 Our privacy policy applies to information we collect when you use our bot. We may change this privacy policy from time to time. Whenever we make changes to this privacy policy, the changes are effective **immediately** after we post the revised privacy policy (as indicated by revising the date at the top of our privacy policy). We encourage you to review our privacy policy whenever you access our services to stay informed about our information practices and the ways you can help protect your privacy.
 
@@ -8,7 +8,7 @@ Our privacy policy applies to information we collect when you use our bot. We ma
 
 ### Information Collection:
 
-In this process, 6ure’s Bot collects information including Server ID, User ID and ChannelID since it is one of its functions to do so. It is worth mentioning that there is no collection of any personal information or its permanent storage during this process.
+In this process, panic’s Bot collects information including Server ID, User ID and ChannelID since it is one of its functions to do so. It is worth mentioning that there is no collection of any personal information or its permanent storage during this process.
 
 ### Data Storage
 
