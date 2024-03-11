@@ -1,8 +1,8 @@
 # TERMS OF SERVICE
 
-Last Updated: **1/27/2024**
+Last Updated: **3/11/2024**
 
-These terms of service ("Terms") apply to your access and use of **6ure** bot. Please read them carefully.
+These terms of service ("Terms") apply to your access and use of **panic** bot. Please read them carefully.
 
 ## Accepting these Terms
 
@@ -14,7 +14,7 @@ The main idea of the Discord bot is aiming at improving user experience through 
 
 ## Privacy Policy
 
-For information about how we collect and use information about users of the Service, please check out our privacy policy available at **[INSERT LINK]**.
+For information about how we collect and use information about users of the Service, please check out our privacy policy available at **[[LINK](https://github.com/ihyledd/6ure/blob/main/Privacy%20Policy.md)]**.
 
 ## User Conduct
 
